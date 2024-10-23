@@ -88,9 +88,9 @@ extern "C" {
 #define SNS_BARRIER_UP_PORT		            SNS_D7_GPIO_Port
 #define SNS_BARRIER_UP_ACTIVATED            GPIO_PIN_RESET
 
-#define SNS_ENTRYING				        SNS_D8_Pin
-#define SNS_ENTRYING_PORT			        SNS_D8_GPIO_Port
-#define SNS_ENTRYING_ACTIVATED              GPIO_PIN_RESET
+#define SNS_CAR_ENTRYING				    SNS_D8_Pin
+#define SNS_CAR_ENTRYING_PORT			    SNS_D8_GPIO_Port
+#define SNS_CAR_ENTRYING_ACTIVATED          GPIO_PIN_RESET
 
 #define SNS_CAR_IN					        SNS_D2_Pin
 #define SNS_CAR_IN_PORT					    SNS_D2_GPIO_Port

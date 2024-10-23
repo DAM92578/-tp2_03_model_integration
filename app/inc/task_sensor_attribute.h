@@ -98,7 +98,7 @@ typedef enum task_sensor_id {ID_BTN_A,
 							 ID_SNS_MUY_CARO,
 							 ID_SNS_CAR_ENTERED	,
 							 ID_SNS_BARRIER_UP,
-							 ID_SNS_ENTRYING,
+							 ID_SNS_CAR_ENTRYING,
 							 ID_SNS_CAR_IN,
 							 ID_SNS__PRINT_TICKET_BTN,
 							 ID_BARRIER_DOWN} task_sensor_id_t;
