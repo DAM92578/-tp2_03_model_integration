@@ -100,9 +100,9 @@ extern "C" {
 #define SNS_PRINT_TICKET_BTN_PORT	        SNS_D4_GPIO_Port
 #define SNS_PRINT_TICKET_BTN_ACTIVATED      GPIO_PIN_RESET
 
-#define BARRIER_DOWN						SNS_D10_Pin
-#define BARRIER_DOWN_PORT					SNS_D10_GPIO_Port
-#define BTN_BARRIER_DOWN_ACTIVATED  		GPIO_PIN_RESET
+#define SNS_BARRIER_DOWN				 	SNS_D10_Pin
+#define SNS_BARRIER_DOWN_PORT				SNS_D10_GPIO_Port
+#define SNS_BARRIER_DOWN_ACTIVATED  		GPIO_PIN_RESET
 /**************************************************************/
 
 
